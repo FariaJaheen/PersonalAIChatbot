@@ -6,7 +6,6 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-5.x-orange?logo=gradio)](https://gradio.app)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green?logo=openai)](https://platform.openai.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ---
 
