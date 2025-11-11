@@ -9,10 +9,9 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
-This chatbot acts as a **personal knowledge assistant** that lets visitors ask questions about my background, academic research, and technical experience.  
-It demonstrates how conversational AI can transform a résumé or portfolio into an interactive experience—bridging self-presentation, NLP, and web deployment.
+This chatbot acts as a personal knowledge assistant that lets visitors ask questions about my background, academic research, and technical experience. It demonstrates how conversational AI can transform a résumé or portfolio into an interactive experience bridging self-presentation, NLP, and web deployment.
 
 ---
 
@@ -24,7 +23,7 @@ It demonstrates how conversational AI can transform a résumé or portfolio into
 | **Backend Logic** | Python 3.12 | Handles environment loading, prompt design, and API orchestration |
 | **LLM Engine** | [OpenAI GPT-4o](https://platform.openai.com/docs/models/gpt-4o) | Generates context-aware answers |
 | **Deployment** | [Hugging Face Spaces](https://huggingface.co/spaces) | Server-less hosting with version control |
-| **Version Control** | [GitHub](https://github.com/fariaj) | Collaboration, issues, and community pull requests |
+| **Version Control** | [GitHub](https://github.com/FariaJaheen) | Collaboration, issues, and community pull requests |
 
 ---
 
