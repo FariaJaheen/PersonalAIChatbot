@@ -30,7 +30,7 @@ This chatbot acts as a personal knowledge assistant that lets visitors ask quest
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/fariaj/personal-chatbot-hf.git
+git clone https://github.com/FariaJaheen/personal-chatbot-hf.git
 cd personal-chatbot-hf
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
