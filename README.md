@@ -11,7 +11,7 @@
 
 ## Overview
 
-This chatbot acts as a personal knowledge assistant that lets visitors ask questions about my background, academic research, and technical experience. It demonstrates how conversational AI can transform a résumé or portfolio into an interactive experience bridging self-presentation, NLP, and web deployment.
+This chatbot acts as a personal knowledge assistant that lets visitors ask questions about my background, academic research, and technical experience. It demonstrates how conversational AI can transform a resume or portfolio into an interactive experience bridging self-presentation, NLP, and web deployment.
 
 ---
 
